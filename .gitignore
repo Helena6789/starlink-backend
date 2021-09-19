@@ -1,0 +1,22 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+*.iml
+
+# web_build
+src/main/webapp
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+target
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.idea
